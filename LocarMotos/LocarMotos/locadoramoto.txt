@@ -1,0 +1,4 @@
+A;Luiz;156526225;555.444.333-22;27;
+B;Custom;1990;20200;30;true;bmw;Tourin;true;350;
+C;Street;2010;30000;30;true;true;650;
+D;Trail;2010;30000;30;70;false;650;
